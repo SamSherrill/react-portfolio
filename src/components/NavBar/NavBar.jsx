@@ -4,7 +4,7 @@ import "./NavBar.css";
 const NavBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <a className="nav-bar-name-background" href="#">
+      <a className="nav-bar-name-background" href="/">
         Sam Sherrill
       </a>
       <button
@@ -20,13 +20,13 @@ const NavBar = () => {
       </button>
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-          <a className="nav-item nav-link" href="index.html">
-            About Me <span className="sr-only">(current)</span>
+          <a className="nav-item nav-link" href="/">
+            About Me <span className="sr-only"></span>
           </a>
-          <a className="nav-item nav-link" href="portfolio.html">
+          <a className="nav-item nav-link" href="/Portfolio">
             Portfolio
           </a>
-          <a className="nav-item nav-link" href="contact.html">
+          <a className="nav-item nav-link" href="/Contact">
             Contact
           </a>
         </div>

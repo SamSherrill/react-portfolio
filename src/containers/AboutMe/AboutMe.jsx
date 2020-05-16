@@ -48,21 +48,21 @@ class AboutMe extends Component {
               <br></br>
               <div className="link-buttons">
                 <a
-                  className="btn btn-dark"
+                  className="btn"
                   href="https://drive.google.com/open?id=1qKazRYsYfW8kRviCAv_47cIo1NyKwDyU"
                   target="_blank"
                 >
                   Resume
                 </a>
                 <a
-                  className="btn btn-dark"
+                  className="btn"
                   href="https://www.linkedin.com/in/SamuelSherrill/"
                   target="_blank"
                 >
                   LinkedIn
                 </a>
                 <a
-                  className="btn btn-dark"
+                  className="btn"
                   href="https://github.com/SamSherrill"
                   target="_blank"
                 >

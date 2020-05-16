@@ -1,0 +1,23 @@
+.card {
+  margin: 50px;
+  width: 18rem;
+}
+
+.card-body {
+  background-color: rgb(89, 170, 165);
+}
+
+.card-text {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.github-link {
+  color: lightgrey;
+  margin-right: 7%;
+}
+
+.deployed-app-link{
+  color: rgb(255, 255, 140);
+}
