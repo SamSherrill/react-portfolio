@@ -6,6 +6,8 @@ Now that I've worked with React and have multiple projects to share, I'll be upd
 
 GitHub repository: [https://github.com/SamSherrill/react-portfolio](https://github.com/SamSherrill/react-portfolio)
 
+Deployed app: [ https://sam-sherrill-portfolio.herokuapp.com/]( https://sam-sherrill-portfolio.herokuapp.com/)
+
 Future portfolio development: [future-plans.md](future-plans.md)
 
 ## Requirements

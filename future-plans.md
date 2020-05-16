@@ -6,8 +6,6 @@
 
 ## Immediate Needs
 
-* Deploy to Heroku
-
 * Add more apps to portfolio
 
 * Re-write ReadMe to reflect an actual portfolio.
