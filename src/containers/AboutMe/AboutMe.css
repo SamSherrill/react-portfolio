@@ -1,0 +1,11 @@
+/* ABOUT ME SPECIFIC STYLING */
+.profile-pic {
+  max-height: 275px;
+  float: left;
+  margin: 0 20px 10px 0;
+}
+
+.btn {
+  background-color:rgb(49, 146, 140);
+  margin-right: 2%;
+}

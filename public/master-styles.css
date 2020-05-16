@@ -1,0 +1,15 @@
+body {
+  background-color: lightgrey;
+}
+
+.jumbotron {
+  margin-top: 2%;
+  background-color: white;
+}
+
+.display-4 {
+  font-size: 20pt;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(89, 170, 165);
+}
