@@ -10,6 +10,10 @@ Deployed app: [https://sam-sherrill-portfolio.herokuapp.com/]( https://sam-sherr
 
 Future portfolio development: [future-plans.md](future-plans.md)
 
+## Screenshot
+
+![about me preview](./public/images/screenshots/react-about-me-screenshot.jpg)
+
 ## Requirements
 
 * Updated portfolio featuring 6 total projects
